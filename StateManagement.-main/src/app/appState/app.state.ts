@@ -9,5 +9,5 @@ export interface AppState{
 }
 export const appReducer = {
     counter: counterReducer,
-    post: postReducer
+    posts: postReducer
 }
